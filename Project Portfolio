@@ -1,0 +1,87 @@
+# Project Portfolio
+
+## Key Projects and Initiatives
+
+---
+
+### Predictive Analytics Tool (2016–2018)
+Developed a robust machine learning-based multi-class classification tool designed to predict critical business outcomes from diverse data sources. The model achieved an F1-score of 87.4%, validated using stratified k-fold cross-validation to ensure generalizability across classes and minimize overfitting. Axis-based validation techniques were used to confirm model performance across various feature dimensions and business segments. Automated ETL pipelines were constructed for seamless ingestion, preprocessing, and feature engineering from both structured and unstructured sources. Real-time model execution and monitoring were enabled through AWS Lambda and Slack Webhooks, allowing for instant feedback and intervention. The solution dramatically improved predictive accuracy and operational efficiency, directly supporting business decision-making.
+
+**Tech Stack:** Python, PyTorch, Google ML Libraries, SQL, AWS EC2, AWS Lambda, AWS API Gateway, ETL Design, Slack Webhooks, Jira (Kanban)
+
+---
+
+### End-to-End Data Automation Pipeline (2016–2018)
+Engineered a fully automated data pipeline to ingest, transform, and deliver data from remote cloud servers to AWS infrastructure, providing real-time access for downstream analytics and reporting. The automated workflow eliminated nearly all manual intervention, reducing manual labeling activities by 90% through seamless integration with SevDesk’s front-end. Advanced ETL orchestration and error-handling routines ensured scalability, reliability, and data integrity, while optimization efforts reduced total processing time by 60%. This freed colleagues from repetitive data handling tasks, allowing them to focus on higher-value analytical work.
+
+**Tech Stack:** AWS EC2, AWS Lambda, AWS API Gateway, Python, SQL, ETL Design, REST APIs, Automation Scripting
+
+---
+
+### Loan Optimization Model – Fidor Bank (2018–2019)
+Built a machine learning-powered loan classification model for customer segmentation and behavioral profiling, enabling Fidor Bank to target offerings more effectively and improve credit risk management. The pipeline incorporated comprehensive preprocessing, feature selection, and model validation via cross-validation and confusion matrix analysis to ensure both accuracy and robustness. The predictive scoring was directly integrated into risk management workflows, supporting real-time loan approval decisions and minimizing default risk exposure.
+
+**Tech Stack:** Python, Scikit-learn, SQL, Tableau, Data Modeling, ETL Pipelines
+
+---
+
+### Early Warning System for Default Prediction (2019–2020)
+Designed a clustering-based machine learning system to identify high-risk customers for proactive credit provisioning. The model leveraged unsupervised learning techniques to detect latent risk patterns, validated using silhouette analysis and cluster cohesion metrics. The system’s predictive alerts enabled early interventions, directly reducing default rates and supporting regulatory compliance. Regular axis-based validation ensured consistent performance across customer segments and geographies.
+
+**Tech Stack:** Python, Scikit-learn, SQL, Data Mining, Clustering, ETL Design
+
+---
+
+### Credit Risk ETL Development – Airflow (2019)
+Implemented a highly automated ETL pipeline using Apache Airflow, streamlining credit risk data workflows across multiple sources. DAG scheduling was optimized to minimize latency, reduce processing time by 40%, and ensure data accuracy. Automated monitoring, error handling, and alerting mechanisms reduced manual oversight, allowing colleagues to focus on actionable insights rather than routine operations.
+
+**Tech Stack:** Apache Airflow, Python, SQL, ETL Automation
+
+---
+
+### Credit Risk Reporting Automation (2020–2022)
+Centralized and fully automated the generation of credit risk reports for senior management, replacing fragmented manual processes. The pipeline integrated data from multiple business units and automated complex data transformations, resulting in the elimination of over 100 hours of monthly manual reporting. This allowed team members to allocate time to deeper analysis and strategic projects.
+
+**Tech Stack:** Python, SQL, Tableau, ETL Automation
+
+---
+
+### Tableau Reporting Automation (2018–2019)
+Replaced legacy reporting methods—primarily PowerPoint and Excel—with interactive, fully automated Tableau dashboards. The automation pipeline extracted, transformed, and loaded data for visualization, reducing the reporting cycle from 3 days to under 2 hours and freeing up team resources for business analysis and stakeholder engagement.
+
+**Tech Stack:** Tableau, Python, SQL, Data Visualization
+
+---
+
+### Project Laundromat – Actimize Platform (Jan 2023–May 2023)
+Led the design, testing, and implementation of a major AML compliance upgrade for the Actimize SAMC platform. Enhanced detection accuracy and traceability by refining compliance logic, bridging gaps between legacy and new systems. Automated data processing and validation routines reduced compliance risks and accelerated audit readiness.
+
+**Tech Stack:** Actimize, SQL, Jira, Confluence, ETL Design, AML Compliance
+
+---
+
+### Actimize SAM-C Rollout (May 2023–Jul 2023)
+Managed the end-to-end rollout of Actimize SAM-C across multiple regions, coordinating cross-functional teams to ensure compliance, accuracy, and timely deployment. Automated deployment scripts and validation checks minimized manual intervention and enabled rapid issue resolution during go-live.
+
+**Tech Stack:** Actimize, SQL, Jira, Confluence, AML Systems
+
+---
+
+### Actimize SAM-R Rollout – APAC (Jul 2023–Dec 2024)
+Served as Product Owner for SAM-R rollout across Singapore, Australia, and Vietnam. Directed a 20-member cross-functional team, leveraging agile methodologies for coordination with OPCO stakeholders. Automated progress tracking and compliance validation improved project transparency and delivery speed.
+
+**Tech Stack:** Actimize, SQL, Jira, Confluence, Agile, AML Systems
+
+---
+
+### ADTPlus Backend Automation – APAC & EU (Jan 2025–Jun 2025)
+Architected and deployed a scalable Actimize data backend automation solution for APAC and EU markets. Leveraged GCP for distributed, fault-tolerant data processing and seamless deployment in Austria and Netherlands. Automated ETL processes ensured rapid onboarding of new markets and minimized manual configuration.
+
+**Tech Stack:** Actimize, GCP, SQL, Python, ETL Automation, Data Pipelines
+
+---
+
+### Fraud Detection – Telecom (Neo4j) (Mar 2015–Oct 2015)
+Designed and implemented a graph-based fraud detection system for telecommunications networks, focusing on SIM box fraud. The solution utilized Neo4j and the Cypher query language to identify suspicious network patterns, validated through historical fraud cases and reduction in false positives. The system reduced fraudulent activity detection time by 70% and provided intuitive visualizations for rapid investigation.
+
+**Tech Stack:** Neo4j, Cypher Query Language, Python, Graph Analytics
